@@ -1,0 +1,14 @@
+html{
+  height: 100%;
+}
+body{
+  height: 100%;
+  margin: 0;
+}
+.background{
+  background-image: url("../img/hp_bg.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
